@@ -1,9 +1,13 @@
 
 ## What's Inside?
-- A **Block** class to represent each block
-- A **Blockchain** class to manage the full chain
-- The first block is a **Genesis block**
-- New blocks can be added easily with data
+
+ A **Block** class to represent each block
+
+ A **Blockchain** class to manage the full chain
+ 
+ The first block is a **Genesis block**
+ 
+ New blocks can be added easily with data
 
 ## Each block has:
 - Index (block number)
